@@ -1,0 +1,4 @@
+D:\Agustutorial\Lessons\EAISchemas\EAISchemas\bin\Debug\EAISchemas.dll
+D:\Agustutorial\Lessons\EAISchemas\EAISchemas\bin\Debug\EAISchemas.pdb
+D:\Agustutorial\Lessons\EAISchemas\EAISchemas\obj\Debug\EAISchemas.dll
+D:\Agustutorial\Lessons\EAISchemas\EAISchemas\obj\Debug\EAISchemas.pdb
